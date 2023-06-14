@@ -1,4 +1,4 @@
-<h1 align="center"> Dashboard - BoraCodar#8 </h1>
+<h1 align="center"> Dashboard </h1>
 
 ![preview](./.github/preview.png)
 
